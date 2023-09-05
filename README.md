@@ -12,7 +12,7 @@ The Black Sea as inland water body is the main trade route of the countries in t
 
 A total of 7 subsets of Sentinel-1 Level 1 GRD images consisting of different transitions and segments were used in this study; 2 mosaics consisting of 2 images and 3 single images. Two of the single images were confirmed in a previous oil leak detection study.
 
-![Dataset](https://github.com/gamzetuncay/OilSpillDetection/blob/master/README_IMAGES/Dataset.png?raw=true)
+![alt text](https://github.com/gamzetuncay/OilSpillDetection/blob/main/README_IMAGES/Dataset.png)
 
 ### METHODOLOGY
 
@@ -39,4 +39,4 @@ A total of 7 subsets of Sentinel-1 Level 1 GRD images consisting of different tr
 
 ### Sample Morphology Analysis
 
-![Morphology Analysis](https://github.com/gamzetuncay/OilSpillDetection/blob/master/README_IMAGES/MorphologyAnalysis.jpg?raw=true)
+![Morphology Analysis](https://github.com/gamzetuncay/OilSpillDetection/blob/main/README_IMAGES/MorphologyAnalysis.jpg?raw=true)
